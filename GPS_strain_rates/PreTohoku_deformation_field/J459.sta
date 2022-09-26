@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="../../styles.css" type="text/css" />
+  <link rel="stylesheet" href="../tab-panel.css" type="text/css" />
+  <script language="JavaScript" type="text/javascript" src="../tab-panel6.js">
+  </script>
+</head>
+
+<meta name="description" content="Nevada Geodetic Lab">
+<title>Nevada Geodetic Laboratory - Station Page for J459</title>
+
+<style>
+   p {text-indent:10px;}
+</style>
+
+<div id="masthead">
+<img src="/images/magnet-station-header.gif" alt="MAGNET GPS Station - Photo by Geoff Blewitt" />
+</div>
+<div id="globalNav">
+   <a href="/index.php">| Home </a> <a href="/NGLStationPages/GlobalStationList">| Browse Global Station List</a> <a href="/NGLStationPages/RapidStationList">| Browse Rapid Station List</a> <a href="/NGLStationPages/UltraStationList">| Browse Ultra Rapid Station List</a> <a href="/NGLStationPages/gpsnetmap/GPSNetMap.html">| Map Browse</a> <a href="/Acknowledgements.php">| Acknowledgements |</a>
+</div>
+
+
+<div id="content2">
+
+<table>
+<tr>
+<td colspan="2" align="left">
+
+
+
+<table cellpadding="5">
+<tr>
+<td valign="top">
+<p>
+<h1>Station ID : J459</h1>
+<h5>Network Operator's Station ID : 0459</h5>
+</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+   <h2>Station operator information from: <a href="/NGLStationPages/attributions/J459.atr"><u>RINEX headers</u></a> </h2>
+</td>
+</tr>
+
+
+<tr>
+<td>
+When using products from this system please cite 
+<a href="https://eos.org/project-updates/harnessing-the-gps-data-explosion-for-interdisciplinary-science?utm_source=rss&utm_medium=rss&utm_content=harnessing-the-gps-data-explosion-for-interdisciplinary-science">Blewitt et al., (2018)</a> for the processing plus also the citation for the original data.
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+   <h3><u>Coordinates</u>: </h3>
+   <h4>Latitude:  33.362 degrees</h4>
+   <h4>Longitude: 129.537 degrees</h4>
+   <h4>Height:    172.361 meters</h4>
+   <br>
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+
+<tr>
+<td align="left">
+
+<table border="1" cellpadding="6">
+
+<tr>
+<td colspan="4" align="center"> 
+   <h3>Time Series Data</h3> 
+   <h5><i>(ascii text)</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+   <h5><i>24 Hour Final Solutions</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
+   <h3> IGS14 </h3>
+</td>
+<td align="center">
+   <h4> <a href="/gps_timeseries/tenv3/IGS14/J459.tenv3">tenv3</a> or <a href="/gps_timeseries/tenv/IGS14/J459.tenv">tenv</a> </h4> 
+</td>
+<td align="center">
+   <h4> <a href="/gps_timeseries/txyz/IGS14/J459.txyz2">xyz</a></h4>
+</td>
+</tr>
+
+
+
+<tr>
+<td colspan="2" align="left">
+   <h3> EU </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/tenv3/plates/EU/J459.EU.tenv3">tenv3</a>  </h4>
+</td>
+</tr>
+
+
+
+<tr>
+<td colspan="4" align="center"> 
+   <h5><i>24 Hour Rapid Solutions</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
+   <h3> IGS14 </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/rapids/tenv3/J459.tenv3">tenv3</a></h4>
+</td>
+</tr>
+
+
+<tr>
+<td colspan="2" align="left">
+   <h3> EU </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/rapids/plates/tenv3/EU/J459.EU.tenv3">tenv3</a></h4>
+</td>
+</tr>
+
+
+
+<tr>
+<td colspan="4" align="center"> 
+   <h5><i>5 Minute Final Solutions</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
+   <h3> IGS14 </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/kenv/J459/">kenv tar files for download</a></h4>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="4" align="center"> 
+   <h5><i>5 Minute Rapid Solutions</i></h5> 
+   <h5><i>(last 60 days max)</i></h5>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
+   <h3> IGS14 </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/rapids_5min/kenv/J459/">kenv tar file download</a></h4>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="4" align="center"> 
+   <h5><i>Quality Assurance (QA) Files</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
+   <h3> IGS14 </h3>
+</td>
+<td colspan="2" align="center">
+   <h4> <a href="/gps_timeseries/qa/J459.qa.gz">.qa.gz file download</a></h4>
+</td>
+</tr>
+
+
+
+<tr>
+<td colspan="4" align="center"> 
+   <h5><i>5 Minute Troposphere Solutions</i></h5> 
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="left">
+   <h3> Tot./Wet Zenith Delay, etc. </h3>
+</td>
+<td align="center">
+   <h4> <a href="/gps_timeseries/trop/J459/">tar file download</a></h4>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="4" align="center" >
+    <h4>Readme Files: </h4>
+     <a href="/gps_timeseries/README_tenv3.txt"><i>tenv3 format, </i></a> 
+     <a href="/gps_timeseries/README_tenv.txt"><i>tenv format, </i></a> 
+     <a href="/gps_timeseries/README_txyz2.txt"><i>xyz format, </i></a> 
+     <br>
+     <a href="/gps_timeseries/README_kenv.txt"><i>kenv format, </i></a> 
+     <a href="/gps_timeseries/README_trop2.txt"><i>trop format, </i></a> 
+     <a href="/gps_timeseries/QA.pdf"><i>QA file format</i></a> 
+    <br>
+    (Note: When using the <a href="http://geodesy.unr.edu/MIDAS_release/README_MIDAS">MIDAS software</a> 
+    <br>
+    use the .tenv files linked above)
+</td>
+</tr>
+
+
+</table>
+
+</td>
+
+<td align="center" valign="top">
+<iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="2" marginwidth="2" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=33.362++129.537&amp;aq=&amp;sll=33.362,129.537&amp;sspn=0.058803,0.049782&amp;ie=UTF8&amp;t=m&amp;z=11&amp;ll=33.362,129.537&amp;output=embed"></iframe>
+<br>
+<br>
+
+
+<table border="1" cellpadding="6">
+<tr>
+   <th>
+   Nearest 4 Other Stations
+   </th>
+   <th>
+   Distance
+   </th>
+</tr>
+<tr>
+   <td>
+   <h4><a href="http://geodesy.unr.edu/NGLStationPages/stations/J690.sta">J690</a></h4>
+   </td>
+   <td>
+   <h4>  17.78 km</h4>
+   </td>
+</tr>
+<tr>
+   <td>
+   <h4><a href="http://geodesy.unr.edu/NGLStationPages/stations/K201.sta">K201</a></h4>
+   </td>
+   <td>
+   <h4>  24.89 km</h4>
+   </td>
+</tr>
+<tr>
+   <td>
+   <h4><a href="http://geodesy.unr.edu/NGLStationPages/stations/G121.sta">G121</a></h4>
+   </td>
+   <td>
+   <h4>  31.50 km</h4>
+   </td>
+</tr>
+<tr>
+   <td>
+   <h4><a href="http://geodesy.unr.edu/NGLStationPages/stations/J091.sta">J091</a></h4>
+   </td>
+   <td>
+   <h4>  31.71 km</h4>
+   </td>
+</tr>
+</table>
+
+</td>
+</table>
+
+<!-- ========================= begin tabbed-frame div ======================== -->
+
+<style>
+
+* {box-sizing: border-box}
+
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 17%;
+  height: 500px;
+}
+
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 5px 5px;
+  width: 100%;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.1s;
+  font-size: 12px;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+}
+
+</style>
+
+<br>
+<h2>Time Series Plots</h2>
+<p>Click on the buttons on the left below to choose from available reference frames, latencies, and sample rates. Original, Cleaned (outlier removed) and detrended (using MIDAS rate) plots are available.
+ See <a href="http://geodesy.unr.edu/explanationofplots.php">plot explanation page</a> for further explanations on plot contents.
+</p>
+
+<div class="tab">
+   <button class="tablinks" onclick="openPlot(event, 'IGS14Orig')" id="defaultOpen">IGS14 Original</button>
+   <button class="tablinks" onclick="openPlot(event, 'IGS14Cleaned')">IGS14 Cleaned</button>
+   <button class="tablinks" onclick="openPlot(event, 'EUOrig')">EU Plate Fixed</button>
+   <button class="tablinks" onclick="openPlot(event, 'EUCleaned')">EU Plate Fixed Cleaned</button>
+   <button class="tablinks" onclick="openPlot(event, 'IGS14Detrended')">MIDAS Detrended</button>
+   <button class="tablinks" onclick="openPlot(event, 'Rapid5min')">Rapid 5 Minute</button>
+   <button class="tablinks" onclick="openPlot(event, 'QAPlots')">Quality Assurance</button>
+</div>
+
+
+<div id="IGS14Orig" class="tabcontent">
+  <a href = "/tsplots/IGS14/IGS14/TimeSeries/J459.png"><img src="/tsplots/IGS14/IGS14/TimeSeries/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+<div id="IGS14Cleaned" class="tabcontent">
+  <a href=""><img src="/tsplots/IGS14/IGS14/TimeSeries_cleaned/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+
+<div id="EUOrig" class="tabcontent">
+  <a href="/tsplots/IGS14/plates/EU/TimeSeries/J459.png"><img src="/tsplots/IGS14/plates/EU/TimeSeries/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+<div id="EUCleaned" class="tabcontent">
+  <a href="/tsplots/IGS14/plates/EU/TimeSeries_cleaned/J459.png"><img src="/tsplots/IGS14/plates/EU/TimeSeries_cleaned/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+<div id="IGS14Detrended" class="tabcontent">
+  <a href="/tsplots/IGS14/IGS14/TimeSeries_flat/J459.png"><img src="/tsplots/IGS14/IGS14/TimeSeries_flat/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+<div id="Rapid5min" class="tabcontent">
+  <a href="/tsplots/rapid5min/J459.png"><img src="/tsplots/rapid5min/J459.png" height="800" border="5" align="left" alt="GPS time series plot"></a>
+</div>
+
+<div id="QAPlots" class="tabcontent">
+  <a href="/tsplots/qa/J459_qa.png"><img src="/tsplots/qa/J459_qa.png" height="800" border="5" align="left" alt="QA plot"></a>
+</div>
+ 
+<script>
+function openPlot(evt, plotName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+     tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the link that opened the tab
+  document.getElementById(plotName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+
+</script>
+
+
+<!-- ========================= end of tabbed-frame div ======================== -->
+
+<p>
+<br>
+<table style="text-align:center" cellpadding="5">
+<tr>
+<th colspan=5><h1>Steps Information for this station</h1></th>
+</tr>
+<tr> <th>Station ID</th> <th>Date<br>(YYMMMDD)</th> <th>Equipment Change Type/<br>or Event ID</th> <th>Earthquake<br>Magnitude</th> <th>Distance<br>(km)</th> </tr>
+<tr><td>J459</td><td>11MAR11</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30">official20110311054624120_30</a></td> <td>9.1</td> <td>1279.1</td></tr>
+<tr><td>J459</td><td>11MAR11</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/usp000hvpa">usp000hvpa</a></td> <td>7.9</td> <td>1104.4</td></tr>
+<tr><td>J459</td><td>15NOV13</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/us10003y71">us10003y71</a></td> <td>6.7</td> <td>269.9</td></tr>
+<tr><td>J459</td><td>16APR14</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/us20005hzn">us20005hzn</a></td> <td>6.2</td> <td>126.1</td></tr>
+<tr><td>J459</td><td>16APR14</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/us20005i1a">us20005i1a</a></td> <td>6.0</td> <td>132.8</td></tr>
+<tr><td>J459</td><td>16APR15</td> <td><a href="http://earthquake.usgs.gov/earthquakes/eventpage/us20005iis">us20005iis</a></td> <td>7.0</td> <td>130.0</td></tr>
+<tr>
+<td colspan=5 align="left">Distance is from this station to earthquake epicenter in km. A potential step record appears when this distance is less than 10^(M/2 - 0.79) where M is earthquake magnitude.
+</td>
+</tr>
+
+<tr>
+<td colspan=5 align="left">Steps for all stations are given in the <a href="http://geodesy.unr.edu/NGLStationPages/steps.txt"><i>master step file database.</i></a>
+</td>
+</tr>
+</table>
+</p>
+
+
+<div id="content2" style="border-top:1px solid #cccccc;padding: 0px 20px 20px 0px;">
+<p>
+<br>
+<a href="http://www.unr.edu" target="_new" > <img src="/images/Nevada_N_blue.png" height="60" alt="University of Nevada, Reno logo" align="right" /> </a>
+<a href="http://geodesy.unr.edu"><img src="/images/logo1_small.jpg" height="60" border="0" align="left" alt="small UNR logo"></a>
+<br>
+</p>
+</div>
+
+</body>
+</html>
